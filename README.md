@@ -16,7 +16,7 @@ SPOTIFY_CLIENT_SECRET=VALUE_HERE
 Create a `.env` file in the `client` directory:
 
 ```env
-
+REACT_APP_API_BASE_URL=http://localhost:5000/api
 ```
 
 Install Dependencies
